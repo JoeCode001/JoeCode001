@@ -40,7 +40,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoeCode001&show_icons=true&theme=react&hide_border=true&bg_color=0D1117)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoeCode001&layout=compact&theme=react&hide_border=true&bg_color=0D1117)
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=JoeCode001&theme=onedark&row=2&column=4)](https://github.com/JoeCode001)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=JoeCode001&theme=onedark&row=2&column=3)](https://github.com/JoeCode001)
 
 </div>
 
